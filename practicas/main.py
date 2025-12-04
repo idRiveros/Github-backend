@@ -1,0 +1,1 @@
+print("Mi primera consola desde Lexpin")
