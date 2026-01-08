@@ -1,6 +1,6 @@
 #while
 
-""" count=0
+count=0
 
 while count <3:
     print(f"me ejecuto, estoy en la vuelta {count}")
@@ -17,7 +17,7 @@ while choice == 1:
     print(f"El resultado de tu suma fue {total}")
     choice = int(input("Para reiniciar escribe el numero 1: "))
 
-print("Fin del programa") """
+print("Fin del programa")
 
 fruits = ["apple", "orange", "banana"]
 print(fruits)
